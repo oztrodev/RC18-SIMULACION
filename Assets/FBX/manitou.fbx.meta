@@ -1,0 +1,435 @@
+fileFormatVersion: 2
+guid: c1acac31d14a84e4195dceffd061cf21
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable:
+  - first:
+      74: 1827226128182048838
+    second: Take 001
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 1
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 1
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 421
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Boss-Extrude005
+        weight: 1
+      - path: Box022
+        weight: 1
+      - path: Box023
+        weight: 1
+      - path: Box024
+        weight: 1
+      - path: Box025
+        weight: 1
+      - path: Cylinder007
+        weight: 1
+      - path: Cylinder009
+        weight: 1
+      - path: Cylinder010
+        weight: 1
+      - path: Cylinder022
+        weight: 1
+      - path: Cylinder023
+        weight: 1
+      - path: Cylinder6311
+        weight: 1
+      - path: Cylinder6311/Imported1
+        weight: 1
+      - path: Cylinder6311/Line006
+        weight: 1
+      - path: Cylinder6311/Line094
+        weight: 1
+      - path: Cylinder6311/Object1222
+        weight: 1
+      - path: Cylinder6311/Object1226
+        weight: 1
+      - path: Dome1
+        weight: 1
+      - path: Dummy002
+        weight: 1
+      - path: Dummy002/Imported1
+        weight: 1
+      - path: Dummy002/Imported1/Imported1
+        weight: 1
+      - path: Dummy002/Imported1/Imported1/Object1154
+        weight: 1
+      - path: Dummy002/Imported1/Imported1/Object1154/Boss-Extrude1
+        weight: 1
+      - path: Dummy002/Imported1/Imported020
+        weight: 1
+      - path: Dummy003
+        weight: 1
+      - path: Dummy003/Imported010
+        weight: 1
+      - path: Dummy003/Imported010/Imported011
+        weight: 1
+      - path: Dummy003/Imported010/Imported011/Object1156
+        weight: 1
+      - path: Dummy003/Imported010/Imported011/Object1156/Boss-Extrude004
+        weight: 1
+      - path: Dummy003/Imported010/Imported021
+        weight: 1
+      - path: Dummy004
+        weight: 1
+      - path: Dummy004/Imported006
+        weight: 1
+      - path: Dummy004/Imported006/Imported007
+        weight: 1
+      - path: Dummy004/Imported006/Imported007/Object1155
+        weight: 1
+      - path: Dummy004/Imported006/Imported007/Object1155/Boss-Extrude002
+        weight: 1
+      - path: Dummy004/Imported006/Imported018
+        weight: 1
+      - path: Dummy005
+        weight: 1
+      - path: Dummy005/Imported008
+        weight: 1
+      - path: Dummy005/Imported008/Imported009
+        weight: 1
+      - path: Dummy005/Imported008/Imported009/Object1157
+        weight: 1
+      - path: Dummy005/Imported008/Imported009/Object1157/Boss-Extrude003
+        weight: 1
+      - path: Dummy005/Imported008/Imported019
+        weight: 1
+      - path: Fillet2
+        weight: 1
+      - path: Group012
+        weight: 1
+      - path: Group012/Object1223
+        weight: 1
+      - path: Group012/Object1224
+        weight: 1
+      - path: Group012/Object1225
+        weight: 1
+      - path: Imported1
+        weight: 1
+      - path: Imported1/Cut-Extrude2
+        weight: 1
+      - path: Imported1/Cut-Extrude2/Imported1
+        weight: 1
+      - path: Imported1/Cut-Extrude2/Imported1/Cylinder006
+        weight: 1
+      - path: Imported1/Cut-Extrude2/Imported1/Cylinder006 1
+        weight: 1
+      - path: Imported1/Cut-Extrude2/Imported1/Cylinder007
+        weight: 1
+      - path: Imported1/Cut-Extrude2/Imported1/Cylinder008
+        weight: 1
+      - path: Imported1/Cut-Extrude2/Imported1/Imported1
+        weight: 1
+      - path: Imported1/Cut-Extrude2/Imported1/Imported1/Imported1
+        weight: 1
+      - path: Imported1/Cut-Extrude2/Imported1/Imported1/Imported1/Imported1
+        weight: 1
+      - path: Imported1/Cut-Extrude2/Imported1/Imported1/Imported1/Imported1/Box028
+        weight: 1
+      - path: Imported1/Cut-Extrude2/Imported1/Imported1/Imported1/Imported1/Box029
+        weight: 1
+      - path: Imported1/Cut-Extrude2/Imported1/Imported1/Imported1/Imported1/Box030
+        weight: 1
+      - path: Imported1/Cut-Extrude2/Imported1/Imported1/Imported1/Imported1/Box030/Box027
+        weight: 1
+      - path: Imported1/Cut-Extrude2/Imported1/Imported1/Imported1/Imported1/Box030/Line001
+        weight: 1
+      - path: Imported1/Cut-Extrude2/Imported1/Imported1/Imported1/Imported1/Box030/Line001/Box032
+        weight: 1
+      - path: Imported1/Cut-Extrude2/Imported1/Imported1/Imported1/Imported1/Box030/Line001/Cylinder6324
+        weight: 1
+      - path: Imported1/Cut-Extrude2/Imported1/Imported1/Imported1/Imported1/Box030/Line001/Plane001
+        weight: 1
+      - path: Imported1/Cut-Extrude2/Imported1/Imported1/Imported1/Imported1/Box030/Line001/Plane004
+        weight: 1
+      - path: Imported1/Cut-Extrude2/Imported1/Imported1/Imported1/Imported1/Box030/Line001/Plane005
+        weight: 1
+      - path: Imported1/Cut-Extrude2/Imported1/Imported1/Imported1/Imported1/Cylinder6325
+        weight: 1
+      - path: Imported1/Cut-Extrude2/Imported1/Imported1/Imported1/Imported1/Imported1
+        weight: 1
+      - path: Imported1/Cut-Extrude2/Imported1/Imported1/Imported1/Imported1/Imported1
+          1
+        weight: 1
+      - path: Imported1/Cut-Extrude2/Imported1/Imported1/Imported1/Imported1/Line096
+        weight: 1
+      - path: Imported1/Cut-Extrude2/Imported1/Imported1/Imported1/Imported1/Line097
+        weight: 1
+      - path: Imported1/Cut-Extrude2/Imported1/Imported1/Imported1/Line004
+        weight: 1
+      - path: Imported1/Cut-Extrude2/Imported1/Imported1/Imported1/Line005
+        weight: 1
+      - path: Imported1/Cut-Extrude2/Imported1/Rectangle001
+        weight: 1
+      - path: Imported1/Cut-Extrude2/Imported1/Rectangle002
+        weight: 1
+      - path: Imported1/Cut-Extrude2/Line011
+        weight: 1
+      - path: Imported1/Cut-Extrude2/Line012
+        weight: 1
+      - path: Imported1/Cut-Extrude2/Object1160
+        weight: 1
+      - path: Imported1 1
+        weight: 1
+      - path: Imported1 2
+        weight: 1
+      - path: Imported1 3
+        weight: 1
+      - path: Imported1 4
+        weight: 1
+      - path: Imported1 5
+        weight: 1
+      - path: Imported1 6
+        weight: 1
+      - path: Imported1 7
+        weight: 1
+      - path: Imported1 8
+        weight: 1
+      - path: Imported1 9
+        weight: 1
+      - path: Imported1 10
+        weight: 1
+      - path: Imported1 11
+        weight: 1
+      - path: Imported1 12
+        weight: 1
+      - path: Imported1 13
+        weight: 1
+      - path: Imported1 14
+        weight: 1
+      - path: Imported1 15
+        weight: 1
+      - path: Imported1 16
+        weight: 1
+      - path: Imported1 17
+        weight: 1
+      - path: Imported1 18
+        weight: 1
+      - path: Imported1 19
+        weight: 1
+      - path: Imported1 20
+        weight: 1
+      - path: Imported1 21
+        weight: 1
+      - path: Imported1 22
+        weight: 1
+      - path: Imported1 23
+        weight: 1
+      - path: Imported1 24
+        weight: 1
+      - path: Imported1 25
+        weight: 1
+      - path: Imported1 26
+        weight: 1
+      - path: Imported1 27
+        weight: 1
+      - path: Imported1 28
+        weight: 1
+      - path: Imported2
+        weight: 1
+      - path: Imported2 1
+        weight: 1
+      - path: Imported2 2
+        weight: 1
+      - path: Imported2 3
+        weight: 1
+      - path: Imported2 4
+        weight: 1
+      - path: Imported2 5
+        weight: 1
+      - path: Imported3
+        weight: 1
+      - path: Imported3 1
+        weight: 1
+      - path: Imported3 2
+        weight: 1
+      - path: Imported4
+        weight: 1
+      - path: Imported5
+        weight: 1
+      - path: Imported012
+        weight: 1
+      - path: Line028
+        weight: 1
+      - path: Line028/Cylinder013
+        weight: 1
+      - path: Line028/Cylinder013/Cylinder010
+        weight: 1
+      - path: Line028/Cylinder013/Cylinder010/Line019
+        weight: 1
+      - path: Line028/Cylinder013/Line027
+        weight: 1
+      - path: Line028/Cylinder013/Line027/Line026
+        weight: 1
+      - path: Line028/Cylinder013/Line027/Line026/Cylinder009
+        weight: 1
+      - path: Line028/Cylinder013/Line027/Line026/Cylinder012
+        weight: 1
+      - path: Line028/Cylinder013/Line027/Line026/Cylinder012/Box008
+        weight: 1
+      - path: Line028/Cylinder013/Line027/Line026/Cylinder012/Box009
+        weight: 1
+      - path: Line028/Cylinder013/Line027/Line026/Cylinder012/Cylinder014
+        weight: 1
+      - path: Line028/Cylinder013/Line027/Line026/Cylinder012/Cylinder015
+        weight: 1
+      - path: Line028/Cylinder013/Line027/Line026/Cylinder012/Cylinder016
+        weight: 1
+      - path: Line028/Cylinder013/Line027/Line026/Cylinder012/Cylinder017
+        weight: 1
+      - path: Line028/Cylinder013/Line027/Line026/Cylinder012/Cylinder018
+        weight: 1
+      - path: Line028/Cylinder013/Line027/Line026/Cylinder012/Cylinder019
+        weight: 1
+      - path: Line028/Cylinder013/Line027/Line026/Cylinder012/Cylinder020
+        weight: 1
+      - path: Line028/Cylinder013/Line027/Line026/Cylinder012/Cylinder021
+        weight: 1
+      - path: Line028/Cylinder013/Line027/Line026/Object1161
+        weight: 1
+      - path: Line028/Line020
+        weight: 1
+      - path: Line030
+        weight: 1
+      - path: Line095
+        weight: 1
+      - path: Line098
+        weight: 1
+      - path: NONE
+        weight: 1
+      - path: Object1159
+        weight: 1
+      - path: Object1220
+        weight: 1
+      - path: Object1221
+        weight: 1
+      - path: Plane006
+        weight: 1
+      - path: Rectangle004
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 1
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 1
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
